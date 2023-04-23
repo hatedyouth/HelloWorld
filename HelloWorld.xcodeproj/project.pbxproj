@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		667ABA7029F5AFF500DAEE5D /* TrafficLightViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 667ABA6F29F5AFF500DAEE5D /* TrafficLightViewController.swift */; };
 		66B44E4F29EDDC22003BB0BD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B44E4E29EDDC22003BB0BD /* AppDelegate.swift */; };
 		66B44E5129EDDC22003BB0BD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B44E5029EDDC22003BB0BD /* SceneDelegate.swift */; };
 		66B44E5329EDDC22003BB0BD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66B44E5229EDDC22003BB0BD /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		667ABA6F29F5AFF500DAEE5D /* TrafficLightViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightViewController.swift; sourceTree = "<group>"; };
 		66B44E4B29EDDC22003BB0BD /* HelloWorld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HelloWorld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		66B44E4E29EDDC22003BB0BD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		66B44E5029EDDC22003BB0BD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				66B44E4E29EDDC22003BB0BD /* AppDelegate.swift */,
 				66B44E5029EDDC22003BB0BD /* SceneDelegate.swift */,
 				66B44E5229EDDC22003BB0BD /* ViewController.swift */,
+				667ABA6F29F5AFF500DAEE5D /* TrafficLightViewController.swift */,
 				66B44E5429EDDC22003BB0BD /* Main.storyboard */,
 				66B44E5729EDDC23003BB0BD /* Assets.xcassets */,
 				66B44E5929EDDC23003BB0BD /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				66B44E5329EDDC22003BB0BD /* ViewController.swift in Sources */,
 				66B44E4F29EDDC22003BB0BD /* AppDelegate.swift in Sources */,
+				667ABA7029F5AFF500DAEE5D /* TrafficLightViewController.swift in Sources */,
 				66B44E5129EDDC22003BB0BD /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
